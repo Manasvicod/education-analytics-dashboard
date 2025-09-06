@@ -1,0 +1,801 @@
+StudentID,Name,Gender,Age,Department,AdmissionYear
+1,Melanie Smith,Male,18,Management,2023
+2,Jennifer Shields,Female,23,Management,2019
+3,Sharon Wright,Male,18,Civil,2022
+4,Kevin Montes,Male,18,Biotech,2023
+5,Christine Lynch,Male,23,Computer Science,2019
+6,Clinton Hart,Female,21,Computer Science,2022
+7,Sharon Morales,Male,18,Biotech,2020
+8,Crystal Mullen,Male,23,Management,2019
+9,Roberto Jones,Male,22,Electrical,2021
+10,Caleb Mcconnell,Female,20,Electrical,2019
+11,Kimberly Brennan,Male,20,Electrical,2019
+12,Yvette Schneider,Male,18,Management,2022
+13,Nicholas Shepherd,Male,21,Management,2020
+14,Kelly Fuller,Male,21,Biotech,2021
+15,Christina Moore,Female,22,Computer Science,2023
+16,Daniel Meyers,Male,18,Biotech,2023
+17,Sally Stuart,Female,20,Biotech,2019
+18,John Burns,Female,21,Management,2022
+19,Amy Potts,Female,18,Electrical,2022
+20,Nicholas Alvarado,Male,24,Mechanical,2023
+21,Vanessa Roberts,Female,21,Computer Science,2021
+22,Vanessa Gutierrez,Male,23,Management,2020
+23,Kenneth Waters,Female,24,Electrical,2021
+24,Ronnie Bean,Female,21,Mechanical,2020
+25,Angela Ramirez DVM,Female,20,Mechanical,2023
+26,John Davis,Female,19,Management,2020
+27,Holly Nelson,Female,24,Civil,2022
+28,Cameron Garcia,Female,22,Computer Science,2019
+29,Terry Herrera,Female,22,Mechanical,2019
+30,Shannon Lewis,Female,20,Management,2023
+31,Michael Anderson,Male,21,Management,2022
+32,Jillian Davidson,Male,18,Electrical,2021
+33,Johnny Medina,Female,21,Civil,2022
+34,Elizabeth Gonzalez,Female,20,Computer Science,2019
+35,Richard Weaver,Female,22,Biotech,2019
+36,Juan Crawford,Male,21,Electrical,2022
+37,Francisco Morgan,Female,22,Mechanical,2022
+38,Ruben Garcia,Male,24,Mechanical,2019
+39,Stephanie Phillips,Male,18,Electrical,2021
+40,Teresa Moore,Male,24,Management,2023
+41,Jenna Hill,Male,22,Mechanical,2023
+42,Raymond Taylor,Male,22,Civil,2022
+43,Juan Henry,Female,19,Computer Science,2023
+44,Marissa Aguilar,Female,19,Civil,2019
+45,Kristina Richards,Female,24,Mechanical,2019
+46,Samantha Bailey,Female,23,Biotech,2022
+47,William Steele,Female,24,Computer Science,2022
+48,Joseph Lopez,Male,19,Computer Science,2022
+49,Kevin Pacheco,Female,22,Electrical,2021
+50,Amy Cohen,Female,20,Electrical,2023
+51,Anthony Smith,Male,24,Biotech,2022
+52,Thomas Day,Female,22,Management,2020
+53,James Todd,Male,20,Computer Science,2020
+54,Mr. Jeffrey Patton,Female,20,Biotech,2019
+55,Alex Stephenson,Male,19,Electrical,2023
+56,Elizabeth Santana,Female,24,Electrical,2022
+57,Brandon Wright,Female,21,Computer Science,2020
+58,Donna Clarke,Male,18,Civil,2023
+59,Mrs. Olivia Fields,Male,19,Mechanical,2019
+60,Katherine Bailey,Male,19,Electrical,2021
+61,Hannah Harris,Male,21,Management,2023
+62,Elizabeth Miller,Male,18,Management,2023
+63,Derek Thompson,Male,22,Electrical,2021
+64,Brian White,Male,23,Civil,2023
+65,Elizabeth Ellison,Male,24,Civil,2019
+66,Danielle Kennedy,Female,23,Biotech,2019
+67,Michael Rodriguez,Female,22,Management,2021
+68,Scott Fernandez,Male,19,Biotech,2022
+69,Deborah Wiggins,Female,18,Management,2020
+70,Mark Miller,Female,19,Mechanical,2022
+71,David Dodson,Female,20,Mechanical,2023
+72,Robert Wolfe,Female,19,Computer Science,2020
+73,Susan Wood DDS,Male,19,Biotech,2021
+74,Matthew Sanchez,Female,22,Electrical,2021
+75,Laura Chung,Male,22,Biotech,2020
+76,Brandon Newman,Female,22,Electrical,2019
+77,Victor Rodriguez,Female,23,Civil,2020
+78,Travis Reyes,Female,20,Biotech,2023
+79,Robert Patel,Male,22,Civil,2019
+80,James Mcdonald,Female,18,Mechanical,2021
+81,Ana Williamson,Male,23,Mechanical,2020
+82,Keith Gutierrez,Female,21,Computer Science,2022
+83,Matthew Franklin,Male,18,Biotech,2022
+84,Tracy Lynch,Female,24,Civil,2023
+85,Anna Kelly,Male,24,Electrical,2022
+86,John Gibson,Male,18,Mechanical,2020
+87,Vincent Delgado,Female,22,Mechanical,2020
+88,Dawn Jimenez,Male,21,Electrical,2022
+89,Johnny Ross,Female,21,Civil,2020
+90,Jessica Rocha,Female,23,Civil,2023
+91,Susan Hawkins,Female,21,Biotech,2019
+92,Sarah Odonnell,Female,24,Biotech,2023
+93,David Price,Female,20,Management,2023
+94,Erika Johnson,Female,22,Management,2020
+95,Angel Walters,Female,21,Computer Science,2019
+96,Shannon Juarez,Female,23,Mechanical,2020
+97,Matthew Jones,Female,24,Biotech,2021
+98,Scott Medina,Female,20,Civil,2020
+99,Jennifer Harrison,Female,19,Electrical,2020
+100,Curtis Lane,Male,19,Civil,2020
+101,Heather Green,Male,20,Mechanical,2019
+102,Amanda Klein,Female,24,Management,2020
+103,Daniel Manning,Female,23,Civil,2019
+104,Brian Carter,Female,20,Computer Science,2022
+105,Daniel Zimmerman,Female,22,Mechanical,2021
+106,Tammy Stephens,Female,22,Management,2019
+107,Tracy Hernandez,Female,19,Electrical,2022
+108,Gary Ruiz,Female,21,Management,2019
+109,Austin Barnes,Female,23,Computer Science,2019
+110,Nicole Frederick,Male,19,Mechanical,2021
+111,Randall Turner,Female,21,Electrical,2023
+112,Elizabeth Hernandez,Male,21,Computer Science,2023
+113,Stephen Lyons,Female,22,Management,2019
+114,Tiffany Watson,Female,24,Computer Science,2020
+115,Chelsea Morton,Male,18,Mechanical,2022
+116,Amanda Bonilla,Female,24,Biotech,2020
+117,Henry Lucero,Male,18,Computer Science,2020
+118,John Watson,Female,20,Computer Science,2019
+119,Darrell Reynolds,Female,22,Management,2019
+120,Kimberly Peterson,Male,21,Management,2019
+121,Cassandra Rogers,Female,23,Electrical,2019
+122,Jennifer Wall,Male,18,Management,2023
+123,Evan Perez,Female,24,Civil,2019
+124,Jeffrey Torres,Male,21,Mechanical,2023
+125,Kaitlin Vasquez,Male,18,Mechanical,2023
+126,Carlos Holland,Female,18,Biotech,2019
+127,Melinda Park,Female,18,Biotech,2021
+128,William Lopez,Male,23,Mechanical,2022
+129,Antonio Morse,Female,22,Biotech,2020
+130,Jean Dean DVM,Female,23,Electrical,2023
+131,Tonya Owen,Female,19,Management,2022
+132,Abigail Rojas,Male,21,Mechanical,2021
+133,Holly Gordon,Male,22,Biotech,2020
+134,Aaron Ritter,Male,22,Mechanical,2020
+135,Oscar Wood,Male,22,Civil,2023
+136,Ashley Davis,Male,24,Computer Science,2019
+137,Donald Chavez,Male,22,Management,2021
+138,Kathryn Simpson,Male,23,Mechanical,2023
+139,Nicole Walton,Male,22,Computer Science,2021
+140,Devon Nelson,Male,20,Biotech,2019
+141,Alexander Gibson,Female,21,Computer Science,2019
+142,Sharon Myers,Male,22,Management,2023
+143,Sean Fisher,Female,21,Mechanical,2019
+144,Nicholas Barnes,Female,20,Civil,2022
+145,Alex Finley,Female,20,Biotech,2020
+146,James Ortiz,Male,21,Mechanical,2023
+147,Timothy Green,Male,18,Management,2021
+148,Mark Mason,Male,19,Biotech,2022
+149,Daniel Aguilar,Male,24,Electrical,2023
+150,Lance Smith,Female,18,Computer Science,2019
+151,Vanessa Hunt,Male,18,Management,2019
+152,Kimberly Keller,Male,23,Electrical,2019
+153,Jacob Garcia,Male,24,Mechanical,2019
+154,Shaun Foley,Male,24,Civil,2021
+155,Rebecca Phillips,Male,18,Biotech,2022
+156,Robin Garcia,Female,22,Computer Science,2020
+157,Kenneth Allen,Male,23,Biotech,2021
+158,Heather Curtis,Female,23,Mechanical,2021
+159,Angela Kerr,Male,20,Biotech,2020
+160,Ronald Smith,Female,24,Computer Science,2020
+161,Victor Alvarez,Male,18,Mechanical,2019
+162,Lynn Reed,Male,20,Biotech,2021
+163,Christopher Bean,Female,21,Civil,2023
+164,Terry Perez,Female,19,Management,2020
+165,Ashley Mckinney,Female,23,Mechanical,2020
+166,Diane Bryan,Male,21,Management,2022
+167,Katherine Silva,Female,21,Mechanical,2023
+168,Kathleen Burke,Male,22,Civil,2023
+169,Joyce Norton,Male,19,Management,2020
+170,Joshua Young,Female,21,Electrical,2019
+171,Nicholas Barron,Female,21,Computer Science,2022
+172,Ronald Brewer,Male,19,Electrical,2023
+173,Henry Robles,Male,19,Biotech,2020
+174,Destiny Martin,Female,21,Civil,2023
+175,Kristy Taylor,Female,19,Electrical,2022
+176,Julia Moody,Female,21,Mechanical,2022
+177,David Hendricks,Male,21,Biotech,2021
+178,Andrea Thompson,Male,22,Biotech,2020
+179,Judith Singh,Male,18,Electrical,2022
+180,Jason Brown,Male,21,Electrical,2021
+181,Robert Wallace,Male,20,Civil,2021
+182,Mark Daniels,Male,23,Computer Science,2023
+183,David Crawford,Female,24,Electrical,2023
+184,Mark Wong,Male,18,Electrical,2021
+185,Angela Romero,Male,18,Management,2023
+186,Claudia Perkins,Male,18,Mechanical,2022
+187,Stephen Goodwin,Female,22,Management,2019
+188,Crystal Cantrell,Male,21,Management,2022
+189,Kristin Webb,Male,22,Biotech,2021
+190,Anthony Frey,Female,21,Computer Science,2021
+191,Heidi Clayton,Male,22,Mechanical,2022
+192,Lindsey Harris,Male,22,Civil,2023
+193,Julie Gilbert,Male,23,Civil,2023
+194,Jerry Barton,Male,20,Electrical,2021
+195,Alisha Henderson,Male,22,Electrical,2020
+196,Tracy Carrillo,Female,23,Civil,2023
+197,William Payne,Female,19,Electrical,2022
+198,Karen Christian,Female,20,Computer Science,2023
+199,Nicholas Bates,Male,22,Management,2022
+200,Angela Parker,Male,24,Electrical,2021
+201,Holly Lucero,Male,18,Biotech,2023
+202,Andrea Huff,Female,19,Electrical,2022
+203,Angela Scott,Male,19,Mechanical,2021
+204,Katrina Gonzalez,Male,23,Computer Science,2020
+205,Yesenia Morgan,Female,19,Mechanical,2022
+206,Alexis Briggs,Male,20,Mechanical,2020
+207,Matthew Garcia,Female,22,Biotech,2020
+208,Edward Higgins,Female,22,Computer Science,2019
+209,Katelyn Holland,Female,24,Computer Science,2023
+210,Mitchell Reed,Male,18,Computer Science,2022
+211,Ann Sanchez,Male,23,Computer Science,2020
+212,Mark Gray,Male,18,Computer Science,2019
+213,Lawrence Terrell,Male,19,Biotech,2021
+214,Brandon Robinson,Male,24,Electrical,2022
+215,Debra Jensen,Male,18,Mechanical,2020
+216,Denise Jones,Male,20,Computer Science,2023
+217,Charlene Romero,Female,22,Electrical,2019
+218,Ryan Clark,Male,19,Electrical,2020
+219,Charles Flynn,Female,24,Mechanical,2023
+220,David Rhodes,Male,18,Biotech,2020
+221,Lori Adams,Male,23,Civil,2022
+222,Katelyn Bautista,Male,20,Civil,2022
+223,Scott Long,Female,20,Electrical,2022
+224,Samuel Jackson,Female,18,Management,2019
+225,Ashley Cox,Female,22,Management,2022
+226,Jeremy Lewis,Female,18,Mechanical,2023
+227,Joshua Miller,Male,19,Civil,2020
+228,Sarah Osborn,Female,18,Electrical,2021
+229,Kenneth Steele,Male,20,Biotech,2023
+230,Derrick Oliver,Male,24,Civil,2023
+231,Amanda Barron,Female,18,Electrical,2022
+232,Jennifer Harris,Female,22,Electrical,2019
+233,Joseph Allen,Female,24,Computer Science,2020
+234,Brooke Allen,Female,23,Biotech,2019
+235,Kendra Stewart,Female,21,Computer Science,2020
+236,Alyssa Rogers,Female,18,Mechanical,2020
+237,Shannon Mcclain,Female,22,Computer Science,2019
+238,Megan Diaz,Female,24,Computer Science,2023
+239,John Henderson,Male,22,Civil,2020
+240,Ryan Calhoun,Female,23,Management,2019
+241,Joseph Juarez,Female,20,Electrical,2020
+242,Kenneth Burns,Male,22,Biotech,2021
+243,Brian Harvey,Female,24,Computer Science,2023
+244,Natalie Holloway,Male,22,Biotech,2022
+245,Bethany Bowen,Male,22,Management,2020
+246,Jesse Ryan,Female,22,Management,2021
+247,Katherine Douglas,Male,19,Computer Science,2022
+248,Joshua Coleman,Male,19,Mechanical,2022
+249,Bradley Harris,Male,20,Computer Science,2020
+250,Jared Diaz,Male,18,Civil,2019
+251,Victoria George,Female,22,Electrical,2020
+252,Daniel Morris,Male,23,Mechanical,2021
+253,Michael Sullivan,Female,18,Computer Science,2022
+254,Zachary Diaz,Male,23,Biotech,2020
+255,Wayne Lawson,Male,18,Mechanical,2019
+256,Ruth Smith,Male,20,Mechanical,2020
+257,Michelle Carter,Male,22,Computer Science,2023
+258,Benjamin Baker,Female,22,Mechanical,2019
+259,Gregory Barnes,Female,21,Biotech,2021
+260,James Davis,Male,23,Management,2022
+261,Isaiah Ayala,Male,18,Mechanical,2020
+262,Vanessa Jones,Female,18,Management,2019
+263,Troy Mitchell,Male,19,Biotech,2023
+264,Brittney Anderson,Male,21,Computer Science,2019
+265,Meredith Ross,Male,24,Electrical,2023
+266,Jennifer Clark,Female,24,Mechanical,2021
+267,Deborah Jones,Female,19,Electrical,2022
+268,Reginald Shepherd,Female,19,Biotech,2021
+269,Rebecca Kelly,Male,19,Mechanical,2020
+270,Jacqueline Harrington,Male,23,Management,2019
+271,Crystal Jimenez,Female,23,Civil,2023
+272,Sarah Garcia,Female,20,Electrical,2023
+273,John Goodman,Female,20,Mechanical,2019
+274,Kenneth Ortiz,Female,19,Electrical,2019
+275,Tabitha Perry,Male,21,Mechanical,2020
+276,Christopher Davis,Female,18,Computer Science,2021
+277,Jesse Gillespie,Male,23,Management,2023
+278,Brian Waller,Female,21,Electrical,2020
+279,Ashley Snyder,Male,22,Civil,2021
+280,Logan Woodward,Female,23,Civil,2020
+281,Grace Cordova,Female,23,Biotech,2023
+282,Gregory Burns,Female,20,Mechanical,2019
+283,Aaron Lewis,Female,18,Electrical,2019
+284,Jeffrey Campbell,Male,18,Biotech,2021
+285,David Greer,Female,24,Electrical,2022
+286,Jesus Moon,Male,24,Mechanical,2021
+287,Zoe Williams,Male,24,Civil,2022
+288,Roberto Calderon,Male,24,Computer Science,2020
+289,Tyler Ramos,Male,22,Civil,2020
+290,Morgan Sanders,Female,22,Biotech,2023
+291,Danielle Ross,Male,23,Management,2022
+292,Debbie Rogers,Male,19,Computer Science,2023
+293,Michael Simmons,Male,20,Biotech,2019
+294,Steve Herrera,Female,20,Mechanical,2022
+295,Joshua Smith,Female,24,Computer Science,2021
+296,Michael Serrano,Female,23,Biotech,2019
+297,Raymond Moore,Female,21,Mechanical,2019
+298,Gloria Thomas,Male,19,Civil,2021
+299,Frank Nelson,Male,23,Management,2019
+300,Karen Cain,Female,19,Mechanical,2022
+301,Larry Haas,Male,19,Electrical,2023
+302,Christine Henderson,Male,19,Mechanical,2019
+303,Kelli Smith DDS,Male,23,Mechanical,2022
+304,Lisa Martin,Female,24,Management,2020
+305,James Burns,Female,20,Electrical,2022
+306,Alexis Lewis,Male,20,Biotech,2023
+307,Elizabeth Jackson,Female,24,Biotech,2022
+308,Elizabeth Malone,Female,19,Mechanical,2021
+309,Suzanne Schmitt,Female,21,Electrical,2023
+310,Sandra Campos,Female,18,Electrical,2020
+311,Shelby Kelly,Female,23,Management,2021
+312,William Williams,Male,18,Civil,2022
+313,Brandon Brown,Female,24,Biotech,2023
+314,Lori Frank,Male,21,Management,2020
+315,Patrick Sullivan,Male,23,Computer Science,2021
+316,Natalie Jones,Female,24,Biotech,2020
+317,Kelly Wu,Male,19,Management,2022
+318,James Brown,Male,20,Biotech,2020
+319,Robert Paul,Male,18,Civil,2019
+320,Melissa Bowen,Female,22,Computer Science,2021
+321,Cole Bush,Female,22,Civil,2020
+322,Kimberly Davis,Male,21,Computer Science,2022
+323,Cory Carroll,Female,19,Mechanical,2022
+324,Matthew Jones,Female,18,Management,2020
+325,Christina Horton,Female,19,Computer Science,2022
+326,Jason Mata,Female,18,Civil,2023
+327,Alice Burns,Male,21,Biotech,2023
+328,Christopher Gonzalez,Male,21,Computer Science,2023
+329,Monique Smith,Female,22,Management,2019
+330,Benjamin Martin,Female,19,Computer Science,2020
+331,Thomas Miller,Male,23,Electrical,2019
+332,Travis Rodriguez,Male,22,Biotech,2022
+333,Riley Fox Jr.,Female,19,Management,2019
+334,Larry Pearson,Male,22,Management,2022
+335,Renee Campbell,Female,23,Mechanical,2022
+336,Jason Silva,Female,20,Civil,2021
+337,Evan Lee,Male,20,Mechanical,2023
+338,Kathryn Day MD,Male,20,Management,2022
+339,Kathy Martin,Female,20,Biotech,2021
+340,Brian Sawyer,Female,24,Computer Science,2023
+341,Jason Jones,Male,18,Computer Science,2022
+342,Robert Duarte,Female,24,Biotech,2022
+343,Jason Foster,Male,24,Management,2019
+344,Victoria Grimes,Female,24,Computer Science,2019
+345,Stephen Juarez,Male,20,Computer Science,2023
+346,Steven Potter,Male,23,Computer Science,2022
+347,Brandon Pearson,Male,21,Civil,2020
+348,Nancy Castaneda,Female,21,Civil,2019
+349,Michelle Kim,Female,18,Electrical,2023
+350,Andrew Mcdaniel,Male,20,Mechanical,2022
+351,Elizabeth Williams,Female,20,Biotech,2022
+352,John Thompson,Male,20,Biotech,2020
+353,Victoria White,Male,22,Biotech,2023
+354,Megan Lopez,Female,19,Electrical,2022
+355,Alexander Bates,Female,22,Civil,2019
+356,Nichole Dalton,Male,19,Management,2020
+357,Barbara Norris,Female,20,Management,2023
+358,Melanie Castillo,Female,20,Electrical,2020
+359,David Vega,Male,22,Management,2019
+360,Michael Brown,Male,22,Biotech,2023
+361,Joseph Potter,Female,19,Mechanical,2020
+362,Charles Ward,Male,21,Computer Science,2021
+363,Laura Barry,Male,19,Civil,2019
+364,Philip Patrick,Female,22,Civil,2019
+365,Crystal Alvarez,Male,23,Electrical,2019
+366,Kathryn Burnett,Male,22,Civil,2021
+367,Sarah Smith,Female,23,Biotech,2021
+368,Brittany Lowery,Female,18,Management,2022
+369,Keith Thomas,Male,22,Biotech,2020
+370,James Ross,Male,18,Electrical,2022
+371,Kyle Bell,Female,21,Biotech,2020
+372,Julia Ortega,Female,19,Management,2021
+373,Jacob Wiley,Female,23,Mechanical,2021
+374,Elizabeth Kim,Female,19,Electrical,2022
+375,Jeffrey Rice,Male,18,Mechanical,2023
+376,Patty Torres,Female,23,Computer Science,2022
+377,Kari Dudley,Female,19,Mechanical,2020
+378,Melissa Dillon,Male,22,Computer Science,2022
+379,Maria Powell,Female,20,Computer Science,2019
+380,Gregory Sullivan,Male,18,Mechanical,2020
+381,Tricia Hughes,Female,19,Electrical,2020
+382,Victoria Schmidt,Female,18,Management,2023
+383,Alan Jacobs,Female,24,Biotech,2021
+384,Kristin Jackson,Male,18,Biotech,2020
+385,Erik Walker,Male,23,Management,2021
+386,Dawn Edwards,Female,24,Computer Science,2022
+387,Nicole Terry,Male,23,Computer Science,2019
+388,Anthony Ray,Male,20,Electrical,2023
+389,Emily Foster,Male,24,Civil,2021
+390,Justin Smith,Male,22,Mechanical,2020
+391,Ryan Weaver,Male,18,Computer Science,2021
+392,Samuel Osborne,Male,19,Biotech,2020
+393,Denise Hudson,Female,21,Electrical,2021
+394,Andrew Brown,Female,18,Mechanical,2020
+395,Connie Houston,Male,18,Electrical,2022
+396,Gloria Roberts,Female,20,Mechanical,2020
+397,Joshua Smith,Female,22,Mechanical,2020
+398,Amy Ray,Female,21,Management,2019
+399,Robert Hernandez,Female,24,Computer Science,2020
+400,Sandra Rodriguez,Male,24,Electrical,2019
+401,Craig Lang,Female,24,Electrical,2023
+402,Abigail Nguyen,Female,23,Management,2019
+403,Rachel Lloyd,Male,23,Biotech,2022
+404,Garrett Torres,Male,19,Biotech,2019
+405,Patricia Romero,Female,21,Computer Science,2023
+406,Samantha Duncan,Female,24,Computer Science,2022
+407,Sylvia Richmond,Female,23,Civil,2021
+408,Janet Patterson,Female,19,Management,2021
+409,Cynthia Frank,Female,22,Biotech,2019
+410,April Hall,Female,19,Mechanical,2019
+411,James Walter,Male,23,Electrical,2023
+412,Heather Bradley,Female,20,Computer Science,2023
+413,Kayla Fitzgerald,Female,20,Electrical,2020
+414,Nancy Mercer,Male,24,Electrical,2023
+415,Joel Edwards,Male,20,Civil,2020
+416,Renee Hill,Male,24,Biotech,2022
+417,Courtney Wilkerson,Male,24,Computer Science,2019
+418,Philip Roberts,Female,23,Electrical,2022
+419,Catherine Braun,Female,20,Computer Science,2023
+420,Clifford Hill,Female,24,Mechanical,2022
+421,Jimmy Sanchez,Female,21,Civil,2022
+422,Jessica Stone,Female,22,Mechanical,2022
+423,Andrew Weber,Female,19,Computer Science,2023
+424,Vickie Jimenez,Male,19,Computer Science,2022
+425,Bradley Barr,Female,23,Biotech,2020
+426,Anita Garcia,Male,20,Electrical,2023
+427,Blake Hamilton,Male,20,Electrical,2022
+428,Jesse Schmidt,Female,24,Mechanical,2023
+429,Ronald Fisher,Male,18,Civil,2021
+430,Jeffrey Johnson,Female,24,Management,2020
+431,Angel Frost,Male,22,Electrical,2022
+432,Mary Thompson,Female,21,Biotech,2021
+433,Jenny Mcdonald,Male,19,Mechanical,2021
+434,Ronald Silva,Female,24,Mechanical,2023
+435,Tiffany Smith,Female,18,Management,2021
+436,Don Collins,Female,18,Biotech,2020
+437,Brittany Rose,Female,24,Civil,2020
+438,Kathryn Blake,Female,23,Biotech,2019
+439,Sarah Garcia,Male,19,Civil,2020
+440,Kimberly Stanton,Male,23,Biotech,2021
+441,Bruce Olson,Male,21,Biotech,2020
+442,Ryan Gonzalez,Female,18,Computer Science,2023
+443,Eric Williams,Male,18,Mechanical,2019
+444,William Reynolds,Female,22,Biotech,2021
+445,Joshua Brown,Female,21,Management,2019
+446,Clayton Barrera,Male,18,Biotech,2021
+447,Rick Williams,Male,21,Electrical,2023
+448,Lucas Smith,Female,19,Mechanical,2019
+449,Madeline Gould,Male,20,Electrical,2022
+450,Thomas Johnson,Female,18,Mechanical,2021
+451,Mr. Charles Thompson,Female,22,Electrical,2022
+452,Priscilla Boyd,Female,19,Biotech,2019
+453,Heather Hancock,Female,24,Biotech,2022
+454,Ryan Marsh,Female,21,Computer Science,2022
+455,Angela Owen,Male,24,Management,2019
+456,Samantha Hernandez,Male,23,Electrical,2023
+457,William Hill,Female,19,Civil,2022
+458,Joseph Thomas,Female,24,Computer Science,2022
+459,Jason Snyder,Male,18,Electrical,2023
+460,Heidi Stevens,Male,21,Electrical,2022
+461,Brian Jacobs,Female,20,Computer Science,2022
+462,Brian Ruiz,Male,19,Biotech,2022
+463,Tammy Alvarado,Female,18,Electrical,2020
+464,Charles Scott,Male,22,Biotech,2023
+465,Lisa Schmidt,Female,23,Computer Science,2022
+466,Diana Phillips,Male,21,Biotech,2023
+467,Donald Jensen,Female,19,Mechanical,2021
+468,Michelle Barker,Male,19,Civil,2021
+469,Joshua Mata,Male,20,Electrical,2022
+470,Julie Mcdaniel,Female,20,Management,2023
+471,Kayla Mitchell,Male,22,Civil,2023
+472,Amanda Norman,Female,23,Biotech,2023
+473,Charles Jennings,Male,22,Electrical,2020
+474,Lisa Fuller,Female,18,Biotech,2021
+475,Jenna Duncan,Male,18,Mechanical,2023
+476,Katrina Wheeler,Female,22,Computer Science,2023
+477,Jason Lynn,Male,23,Electrical,2020
+478,Jennifer Baker,Female,22,Mechanical,2020
+479,Richard Duran,Male,23,Mechanical,2023
+480,Andrew Jones,Female,23,Electrical,2019
+481,Phillip Butler,Female,24,Biotech,2023
+482,Michael Ortiz,Female,21,Management,2023
+483,Cory Johnson,Male,23,Mechanical,2020
+484,Nicholas Conner,Female,20,Civil,2020
+485,Elizabeth Clements,Male,23,Mechanical,2023
+486,Nancy Evans,Female,23,Management,2023
+487,Jillian Hayden,Male,23,Biotech,2023
+488,Lindsey Olsen,Female,24,Biotech,2020
+489,Mrs. Michelle Johnson,Male,24,Civil,2023
+490,Rachel Hoffman,Male,18,Mechanical,2023
+491,Brian Gordon,Female,24,Biotech,2022
+492,Maria Gibson,Male,20,Management,2019
+493,Frank Barajas,Male,20,Electrical,2021
+494,Edward Vance,Female,24,Computer Science,2019
+495,Tina Wright,Male,22,Computer Science,2022
+496,Gary Sandoval,Male,21,Computer Science,2021
+497,Timothy Alexander,Male,24,Mechanical,2023
+498,Christopher Li,Female,23,Civil,2022
+499,Glen Roberts,Male,19,Biotech,2023
+500,Michelle Wilson,Female,21,Electrical,2020
+501,Wanda Sanchez,Male,21,Management,2022
+502,Michael White,Male,20,Electrical,2020
+503,Michael Washington,Male,21,Management,2022
+504,Jeremy Stevens,Female,24,Mechanical,2022
+505,Tammy Mccarty,Male,23,Computer Science,2020
+506,Kelly Gates,Male,23,Mechanical,2021
+507,Brian Burns,Female,18,Civil,2019
+508,Joshua Dean,Male,23,Civil,2023
+509,Erin Stewart,Female,23,Management,2022
+510,Shelly Manning,Female,20,Biotech,2023
+511,Pamela Ramirez,Male,23,Biotech,2020
+512,Mr. Brandon Gibson,Female,18,Management,2023
+513,Dalton Garcia,Male,19,Civil,2020
+514,Carrie Edwards,Female,24,Civil,2023
+515,Robin Tran,Female,20,Civil,2019
+516,Derek Nelson,Male,19,Mechanical,2019
+517,Jean Washington,Female,20,Civil,2019
+518,Vincent Sharp,Female,22,Electrical,2019
+519,Kelly Caldwell,Female,21,Computer Science,2019
+520,Anthony Carroll,Female,22,Civil,2019
+521,Sarah Davis,Female,23,Management,2020
+522,Laurie Schwartz,Male,19,Computer Science,2022
+523,Michael Sherman,Female,23,Mechanical,2023
+524,Jenna Hinton,Male,21,Management,2019
+525,Kevin Howell MD,Female,20,Computer Science,2020
+526,Patrick Reed,Male,21,Management,2020
+527,Seth Miller,Male,18,Mechanical,2020
+528,Hannah Flowers,Female,21,Electrical,2022
+529,Teresa Porter,Female,18,Mechanical,2023
+530,Mary Morgan,Female,21,Mechanical,2022
+531,Lisa Brown,Male,24,Management,2021
+532,Samuel Knox,Female,18,Biotech,2020
+533,Bradley Hall,Male,19,Civil,2021
+534,Michael Bender,Male,23,Civil,2019
+535,Shannon Greene,Male,23,Electrical,2019
+536,Amanda Mccann,Female,22,Electrical,2022
+537,Richard Weber,Female,23,Civil,2023
+538,Tiffany Gilmore DDS,Male,20,Biotech,2021
+539,Anthony Ware,Male,24,Civil,2023
+540,Theresa Chapman,Female,21,Biotech,2022
+541,George Ramos,Male,22,Electrical,2019
+542,Jason Romero,Female,20,Computer Science,2023
+543,Elizabeth Nichols,Male,20,Management,2023
+544,Taylor Brown,Female,18,Electrical,2019
+545,Pamela Miller,Male,23,Electrical,2021
+546,James Jackson,Female,19,Mechanical,2019
+547,Peter Smith DDS,Male,19,Mechanical,2023
+548,Taylor Hall,Female,22,Mechanical,2021
+549,John Miller,Female,24,Management,2021
+550,Sara Young,Male,19,Mechanical,2019
+551,Angel Wells,Male,21,Biotech,2023
+552,Scott Reynolds,Female,19,Civil,2022
+553,Nicole Chambers,Male,22,Computer Science,2023
+554,Michael Dawson,Female,19,Electrical,2020
+555,Leslie Smith,Male,21,Biotech,2022
+556,Anthony Horton,Female,18,Computer Science,2021
+557,Nicholas Suarez,Female,24,Biotech,2022
+558,Holly Garcia,Female,22,Biotech,2021
+559,Derek Mcdonald,Female,18,Electrical,2021
+560,Ashley Barry,Female,18,Civil,2022
+561,Adriana Valdez,Female,18,Mechanical,2021
+562,Joan Ortiz,Male,20,Management,2021
+563,Valerie Glass,Male,24,Civil,2020
+564,Nicholas Bailey,Male,23,Management,2023
+565,Ashley Miller,Female,24,Electrical,2023
+566,Christopher Walker,Female,20,Electrical,2020
+567,Allen Bright,Female,23,Electrical,2022
+568,Christopher Watson,Female,24,Computer Science,2019
+569,Carol Kelley,Male,18,Management,2019
+570,Samantha Peterson,Male,22,Civil,2019
+571,Erin Bradley,Female,23,Civil,2020
+572,Kayla Herman,Male,21,Biotech,2020
+573,Shelly Byrd,Male,21,Biotech,2021
+574,Gerald King,Female,19,Biotech,2019
+575,Carla Brooks,Male,23,Electrical,2022
+576,Andre Wiley,Female,22,Civil,2022
+577,Ariana Rodgers,Male,20,Management,2019
+578,Evan Baker,Female,18,Electrical,2019
+579,Andrew Martinez,Female,19,Computer Science,2019
+580,Amber Walters,Female,21,Biotech,2020
+581,Timothy Garner,Female,20,Electrical,2020
+582,Joseph Thompson,Male,20,Electrical,2020
+583,Rodney Jackson,Female,18,Computer Science,2023
+584,Thomas Travis,Female,23,Mechanical,2022
+585,Stephen Blake,Female,21,Civil,2022
+586,Cassandra Davis,Male,22,Management,2021
+587,Rose Stokes,Female,20,Mechanical,2020
+588,Kent Olson,Male,18,Biotech,2023
+589,Howard Walsh,Female,22,Electrical,2023
+590,Todd Hoffman,Male,23,Computer Science,2022
+591,Monica Cochran,Male,21,Computer Science,2020
+592,Maria Frank,Female,23,Civil,2021
+593,Ann Padilla,Male,20,Mechanical,2020
+594,Joseph Zamora,Female,22,Civil,2019
+595,Matthew Scott,Female,22,Electrical,2020
+596,Carl Marshall,Female,22,Civil,2019
+597,Debbie Wagner DDS,Male,20,Management,2019
+598,Cynthia Boyd,Male,20,Computer Science,2021
+599,Jennifer Smith,Female,23,Computer Science,2022
+600,Tracy Short,Female,19,Biotech,2020
+601,Zachary Smith,Male,23,Biotech,2019
+602,Denise Maynard,Female,21,Electrical,2020
+603,Alexander Mendoza,Female,18,Management,2022
+604,Shawn May,Female,22,Mechanical,2022
+605,Daniel Mendoza,Male,19,Civil,2023
+606,Donna Bailey,Male,18,Electrical,2022
+607,Jason Henry,Male,19,Biotech,2021
+608,Doris Daniels,Female,24,Civil,2019
+609,Sarah Madden,Female,23,Biotech,2023
+610,Alison Mason,Female,20,Civil,2021
+611,Tasha Long,Male,22,Mechanical,2020
+612,Denise Harrison,Female,23,Electrical,2019
+613,Mark Morris,Female,18,Civil,2022
+614,Brandon Brewer,Female,24,Management,2019
+615,Matthew Tyler,Female,24,Computer Science,2020
+616,Kenneth Webb,Male,24,Management,2023
+617,Nancy Bryant,Male,18,Management,2023
+618,Dr. Kevin Bates Jr.,Female,18,Computer Science,2023
+619,Lauren Smith,Male,18,Management,2022
+620,Robert Chavez,Male,18,Civil,2021
+621,Tina Bartlett,Female,24,Civil,2021
+622,Kristina Brown,Female,24,Civil,2019
+623,Katherine Hamilton,Male,19,Computer Science,2022
+624,Felicia Mitchell,Female,23,Management,2023
+625,Taylor Woodard,Male,22,Computer Science,2023
+626,Jennifer Reed,Female,20,Civil,2020
+627,Daniel Hill,Male,24,Management,2020
+628,Susan Young,Female,20,Management,2023
+629,Jeanette Rivera,Male,23,Biotech,2023
+630,Latasha Glover,Male,23,Biotech,2022
+631,Brian Miranda,Male,20,Mechanical,2021
+632,William Crawford,Female,24,Electrical,2020
+633,Dustin Hunt,Male,20,Biotech,2021
+634,Sheila Cuevas,Male,19,Computer Science,2022
+635,Jesse Barnes,Female,21,Biotech,2023
+636,Sheryl Lane,Female,24,Mechanical,2021
+637,James English,Male,24,Management,2023
+638,Tammy Harding,Male,22,Mechanical,2023
+639,Bobby Lawrence,Female,18,Management,2019
+640,Karen Johnson,Female,21,Management,2021
+641,Chris Goodwin,Female,23,Electrical,2021
+642,Michelle Harvey,Female,24,Biotech,2023
+643,Sheila Torres,Female,20,Computer Science,2022
+644,Trevor Morales,Male,21,Computer Science,2019
+645,Jennifer Francis,Female,22,Civil,2023
+646,Lori Williams,Male,23,Management,2020
+647,Veronica Martin,Male,18,Computer Science,2020
+648,Kayla Rodriguez,Male,18,Electrical,2019
+649,Joseph Page,Female,22,Management,2022
+650,Marc Hoffman,Male,22,Electrical,2023
+651,Donald Lozano,Male,20,Computer Science,2021
+652,Frances Ayers,Female,24,Computer Science,2019
+653,Mary Guerra,Male,18,Civil,2022
+654,Jonathan Davila,Male,23,Computer Science,2021
+655,Kenneth Fernandez,Female,21,Management,2020
+656,Peter Nelson,Male,23,Management,2020
+657,Lori Finley,Male,19,Management,2021
+658,Lucas Gutierrez,Male,19,Civil,2019
+659,John Davis,Female,22,Civil,2020
+660,Ann Lane,Female,20,Computer Science,2023
+661,William Wong,Female,19,Mechanical,2021
+662,Laura Guerrero,Male,18,Mechanical,2021
+663,Elaine Wiley,Male,23,Civil,2020
+664,Nicholas Anderson,Female,23,Computer Science,2019
+665,Michael Black,Male,22,Mechanical,2023
+666,Jeremy Drake,Male,24,Computer Science,2019
+667,Jordan Cline,Female,24,Computer Science,2022
+668,Allen Watson,Female,21,Computer Science,2022
+669,John Frank,Male,22,Biotech,2020
+670,Olivia Williams,Male,21,Management,2020
+671,Dana Franklin,Male,24,Computer Science,2020
+672,Anthony Pierce,Female,22,Biotech,2022
+673,John Fletcher,Female,22,Civil,2019
+674,Pamela Stanley,Female,22,Mechanical,2019
+675,Regina Freeman,Female,24,Management,2020
+676,David Parker,Male,21,Mechanical,2023
+677,April Reed,Female,21,Management,2019
+678,Travis Rice,Female,22,Mechanical,2022
+679,Caroline Ward,Female,19,Management,2021
+680,Nancy Daniels,Female,20,Mechanical,2021
+681,Robert Williams,Female,24,Mechanical,2021
+682,Rachel Short,Male,20,Mechanical,2023
+683,Julie Rush,Male,20,Mechanical,2020
+684,Angela Hernandez MD,Female,21,Civil,2022
+685,Justin Hill,Male,21,Computer Science,2023
+686,Rose Ramsey,Female,19,Electrical,2022
+687,Charles Evans,Female,20,Biotech,2022
+688,Gregory Campbell,Male,20,Electrical,2020
+689,Veronica Alexander PhD,Male,22,Electrical,2021
+690,Jessica Stewart,Female,21,Management,2020
+691,Stephen Allen,Female,20,Computer Science,2023
+692,Jamie Clarke,Female,23,Management,2023
+693,Amber Lee,Male,19,Computer Science,2023
+694,Jennifer Ramos,Female,23,Computer Science,2020
+695,David Wise,Female,23,Mechanical,2022
+696,Angela Edwards,Female,24,Civil,2022
+697,Chloe Hawkins,Male,24,Mechanical,2019
+698,Harry Avila,Female,19,Civil,2023
+699,Michael Rivera,Female,23,Management,2022
+700,Sandra Scott,Male,20,Civil,2019
+701,Samantha Gutierrez,Female,21,Management,2022
+702,Joshua Young,Female,19,Electrical,2023
+703,Susan Love,Male,22,Electrical,2021
+704,Justin Fletcher,Female,23,Civil,2023
+705,Zachary Smith,Male,19,Civil,2020
+706,Emily Morgan,Male,18,Management,2022
+707,Michael Hall,Female,18,Mechanical,2022
+708,Carla Jackson,Female,24,Management,2020
+709,Annette Lee,Female,21,Mechanical,2020
+710,Mr. Michael Clay,Female,20,Electrical,2021
+711,William Bautista,Male,21,Computer Science,2022
+712,Rachel Clark,Female,21,Civil,2022
+713,John Robinson,Male,21,Mechanical,2021
+714,Sarah Ortega,Female,21,Management,2019
+715,Sarah Reed,Female,22,Electrical,2021
+716,Mark Gardner,Female,22,Mechanical,2023
+717,Mrs. Jessica King MD,Male,24,Management,2022
+718,Kristin Hunt,Female,19,Civil,2020
+719,Jennifer Lee,Female,18,Civil,2023
+720,Laura Brown MD,Female,21,Biotech,2022
+721,Bradley Gonzales,Female,24,Computer Science,2021
+722,Catherine Trevino,Male,19,Biotech,2023
+723,Destiny Gonzales,Female,18,Electrical,2022
+724,Heather Guerrero,Male,23,Mechanical,2019
+725,Adam Price,Male,20,Electrical,2019
+726,Nancy Watkins,Male,22,Management,2020
+727,Anna Morgan,Male,23,Civil,2022
+728,Daniel Lewis,Male,18,Biotech,2019
+729,William Morton,Male,23,Biotech,2021
+730,Shannon Robinson,Female,20,Biotech,2022
+731,Brianna White,Male,24,Electrical,2021
+732,Katrina Bailey,Male,18,Civil,2021
+733,Julie Williams,Male,23,Mechanical,2019
+734,Johnny Mendoza,Female,22,Management,2022
+735,Heidi Kennedy,Female,22,Mechanical,2023
+736,Kenneth Ferguson,Male,19,Electrical,2019
+737,Jeffery Martinez,Female,23,Management,2019
+738,Diana Mullen,Male,21,Biotech,2022
+739,Brenda Ortiz,Male,23,Computer Science,2022
+740,Autumn Young,Female,24,Electrical,2021
+741,Shelley Hoffman,Male,18,Electrical,2022
+742,Jennifer Valdez,Female,18,Civil,2021
+743,Daniel Parrish,Female,24,Mechanical,2019
+744,Samantha Barnes,Male,23,Electrical,2020
+745,William Thompson,Male,24,Electrical,2023
+746,Andrew Williams,Female,20,Biotech,2019
+747,Benjamin Valdez,Male,24,Biotech,2022
+748,Joseph Brown,Male,22,Management,2023
+749,Nicholas Dorsey,Male,24,Computer Science,2020
+750,Cassandra Holmes,Female,18,Civil,2020
+751,Diane Smith,Female,22,Computer Science,2021
+752,Brandon Brown,Male,18,Management,2023
+753,Colton Reed MD,Female,19,Biotech,2021
+754,Jose Johnson,Female,21,Mechanical,2019
+755,Dominic Scott PhD,Female,18,Biotech,2023
+756,Alex James,Female,22,Civil,2019
+757,Michael Gomez,Female,19,Biotech,2021
+758,Rachel Adams,Male,18,Civil,2023
+759,Amanda Small,Male,20,Civil,2021
+760,James Mcbride,Male,24,Civil,2023
+761,Amy Sheppard,Female,21,Management,2021
+762,Tiffany Adams,Female,18,Civil,2020
+763,Sherry Klein,Male,19,Civil,2021
+764,Elizabeth Williams,Female,20,Mechanical,2020
+765,Kyle Parks,Male,23,Computer Science,2021
+766,Patrick Novak,Male,19,Electrical,2023
+767,Aaron Gilmore,Male,24,Computer Science,2023
+768,Martin Cook,Female,19,Civil,2023
+769,Christina Martin,Female,20,Mechanical,2022
+770,Robert Benson,Male,19,Biotech,2019
+771,Brooke Young,Male,20,Mechanical,2023
+772,Nancy Medina,Male,18,Civil,2020
+773,Matthew Martinez,Male,20,Mechanical,2023
+774,Michael Pitts,Female,20,Mechanical,2022
+775,Tamara Vance,Female,21,Civil,2020
+776,David Davis,Male,20,Management,2022
+777,Robin Perry,Male,20,Mechanical,2020
+778,Corey Powers,Female,23,Electrical,2021
+779,David Kramer,Female,18,Electrical,2019
+780,Jackson Pierce,Male,24,Mechanical,2019
+781,Christopher Young,Male,21,Management,2022
+782,Shaun Lowe,Male,23,Biotech,2019
+783,Samuel Miller,Female,22,Civil,2022
+784,Michelle King,Female,18,Electrical,2022
+785,Richard Sullivan,Female,18,Biotech,2022
+786,Yvette Ellis,Male,22,Mechanical,2019
+787,Stacy Henderson,Male,24,Biotech,2022
+788,Kelly Bradshaw,Female,20,Computer Science,2019
+789,Eric Lopez,Female,23,Electrical,2022
+790,Karen Allen,Male,19,Mechanical,2023
+791,Susan Stone,Female,21,Civil,2022
+792,Tony Mitchell,Female,19,Management,2020
+793,Courtney Logan,Male,22,Mechanical,2022
+794,Shannon Jones,Female,18,Civil,2021
+795,Tammy Burnett,Male,24,Management,2022
+796,Samantha Barnes,Male,18,Management,2020
+797,Kristen Montes,Male,21,Mechanical,2020
+798,Scott Young,Male,18,Biotech,2019
+799,Michael Robertson,Male,18,Biotech,2023
+800,Tonya Cardenas,Male,21,Management,2022
